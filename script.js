@@ -34,12 +34,12 @@ const title_animation_text = {
     6: "CompTIA Net+",
     7: "Cryptography",
     8: "Linux", 
-    9: "Cisco PacketTracer",
+    9: "Cisco CCNA",
     10: "Android App Developer",
     11: "Proficient in Git",
-    12: "PCAP",
     13: "Server Management and Hosting",
     14: "CyberSecurity",
+    15: "Networking"
 };
 
 function animate() {

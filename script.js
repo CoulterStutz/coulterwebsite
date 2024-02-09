@@ -76,3 +76,9 @@ function shuffleArray(array) {
     }
     return shuffledArray;
 }
+
+  
+
+window.onload = function(){
+    setTimeout(function() { animate() }, 1500)
+}

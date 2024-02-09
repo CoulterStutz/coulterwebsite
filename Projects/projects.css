@@ -47,3 +47,19 @@ h1>b, h2>b{
     overflow: hidden;
     transition: max-height 0.2s ease-out;
   }
+
+.certificates{
+  margin: auto;
+  width: 25vh;
+  opacity: 0;
+  display: flow-root;
+  animation: slide_b 1.5s 5s 1 normal forwards;
+}
+  
+.certificate_holder{
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 75%;
+  border-radius: 30px;
+}

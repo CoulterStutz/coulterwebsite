@@ -122,16 +122,6 @@ code:hover{
     background: rgba(255, 255, 255);
 }
 
-.certs{
-    background-color: white;
-    padding-top: 1%;
-    width: 100%;
-    font-size: 45px;;
-    height: 100%;
-    text-align: center;
-    font-family: 'Roboto', sans-serif;
-}
-
 .titleP{
     text-decoration: none;
     color: white;
@@ -275,8 +265,11 @@ input:checked + .slider:before {
 
 .certificates{
   margin: auto;
-  width: 40%;
-  animation: slide_b 1.5s ease 2s 1 normal forwards;
+  width: 25vh;
+  opacity: 0;
+  display: flow-root;
+  animation-delay: 2s;
+  animation: slide_b 1.5s ease 1 normal forwards;
 }
 
 .certificate_holder{

@@ -272,3 +272,15 @@ input:checked + .slider:before {
   font-family: "Karla" "sans-serif";
   color: white;
 }
+
+.certificates{
+  margin: auto;
+  width: 40%;
+  animation: slide_b 1.5s ease 2s 1 normal forwards;
+}
+
+.certificate_holder{
+  background-color: white;
+  padding: 20px;
+  border-radius: 30px;
+}

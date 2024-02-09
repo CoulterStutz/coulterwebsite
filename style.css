@@ -281,6 +281,8 @@ input:checked + .slider:before {
 
 .certificate_holder{
   background-color: white;
-  padding: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 75%;
   border-radius: 30px;
 }

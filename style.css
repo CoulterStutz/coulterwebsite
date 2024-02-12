@@ -274,5 +274,11 @@ input:checked + .slider:before {
 }
 
 .socials{
-  
+  margin: auto;
+  padding: 1vh;
+  background-color: white;
+  width: 40%;
+  border-radius: 25px;
+  opacity: 0;
+  animation: slide_b 1.5s ease 2s 1 normal forwards;
 }

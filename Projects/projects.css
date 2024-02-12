@@ -50,16 +50,15 @@ h1>b, h2>b{
 
 .certificates{
   margin: auto;
-  width: 25vh;
+  background-color: white;
+  margin-top: 5vh;
+  border-radius: 10px;
+  width: 50vh;
   opacity: 0;
   display: flow-root;
-  animation: slide_b 1.5s 5s 1 normal forwards;
+  animation: slide_b 1.5s 1s 1 normal forwards;
 }
-  
-.certificate_holder{
-  background-color: white;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  width: 75%;
-  border-radius: 30px;
+
+.certificates:img{
+  width: 5%;
 }

@@ -23,7 +23,7 @@
 }
 
 html{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/anders-jilden.jpg") no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/backgrounds/kai-oberhauser-BKAaLmT0tIs-unsplash.jpg") no-repeat;
     background-position-y: center;
     background-size: cover;
 }

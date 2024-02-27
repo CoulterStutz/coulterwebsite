@@ -28,6 +28,8 @@ let etc_enabled = false
 
 let t_title = document.getElementById("t_title")
 
+let mail_button = document.getElementById("mail")
+let call_button = document.getElementById("call")
 
 
 window.onload = function(){
@@ -38,7 +40,6 @@ window.onload = function(){
     band_qr.style.display = "none";
     xmr_qr.style.display = "none";
     etc_qr.style.display = "none";
-    setTimeout(function() { animate() }, 1500)
 }
 
 
@@ -112,3 +113,11 @@ ethclassic.onclick = function(){
     }
 }
 
+mail_button.onclick = function(){
+    window.location.href = "mailto:coulterstutz@gmail.com";
+    console.log("button")
+}
+
+call_button.onclick = function(){
+    window.location.href = "tel:+1234567890";
+}

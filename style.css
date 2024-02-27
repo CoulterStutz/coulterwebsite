@@ -318,6 +318,10 @@ input:checked + .slider:before {
   color: white;
 }
 
+.mail:hover{
+  color: aqua;
+}
+
 .socials{
   margin: auto;
   padding: 1vh;

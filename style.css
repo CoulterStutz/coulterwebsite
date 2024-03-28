@@ -176,6 +176,29 @@ button{
     margin-bottom: 10px;
 }
 
+.youtube{
+    color: #111111;
+}
+
+.youtube:hover{
+    color: #ff2626;
+}
+
+.linkedin{
+    color: #111;
+}
+
+.linkedin:hover{
+    color: blue;
+}
+
+.git{
+    color: #111111;
+}
+
+.git:hover{
+    color: #530079;
+}
 
 .darkmode{
     padding-top: 8px;

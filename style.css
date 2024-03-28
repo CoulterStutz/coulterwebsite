@@ -159,14 +159,6 @@ code:hover{
     border: #111 1px solid;
 }
 
-svg:hover{
-    fill:rgba(0, 0, 0, 0.26);
-}
-
-svg-sel{
-    fill:rgba(0, 0, 0, 0.26);
-}
-
 button{
     border: 0px solid;
     background-color: white;

@@ -42,7 +42,7 @@ const title_animation_text = {
     15: "Networking",
     16: "Windows Server + AD Experience",
     17: "Algorithmic Automation in Python",
-    18: "Deep Learning & AI"
+    18: "Deep Learning"
 };
 
 function animate() {

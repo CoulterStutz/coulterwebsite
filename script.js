@@ -39,7 +39,10 @@ const title_animation_text = {
     11: "Proficient in Git",
     13: "Server Management and Hosting",
     14: "CyberSecurity",
-    15: "Networking"
+    15: "Networking",
+    16: "Windows Server + AD Experience",
+    17: "Algorithmic Automation in Python",
+    18: "Deep Learning & AI"
 };
 
 function animate() {
